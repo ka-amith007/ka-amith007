@@ -3,20 +3,31 @@
   <img src="https://giffiles.alphacoders.com/174/1744.gif" alt="banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Amith K G</h1>
+<!-- ✨ Animated Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0e75b6&center=true&vCenter=true&width=700&lines=Hi+I'm+Amith+K+G;CSE+Student;AI+Enthusiast;MERN+Stack+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
+</p>
+
 <h3 align="center">CSE Student & AI-Driven MERN Developer Creating Modern Web Experiences</h3>
 
 <!-- 👨‍💻 Coding GIF (Right Side) -->
 <img align="right" alt="coding" width="300"
 src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-<!-- 🔢 Visitors Counter -->
+---
+
+## 👀 Visitors & Profile Stats
+
 <p align="left">
+
+  <!-- Custom Visitor Image -->
+  <img src="https://cdn-icons-png.flaticon.com/512/1827/1827504.png" width="50" style="margin-right: 15px;" alt="Visitors Icon"/>
+
   <!-- Hits.sh Counter -->
-  <img src="https://hits.sh/ka-amith007.svg?style=for-the-badge&label=Visitors&color=0e75b6&logo=github" alt="Visitors"/>
-  
+  <img src="https://hits.sh/ka-amith007.svg?style=for-the-badge&label=Total+Visitors&color=0e75b6&logo=github" alt="Visitors"/>
+
   <!-- Komarev Counter -->
-  <img src="https://komarev.com/ghpvc/?username=ka-amith007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ka-amith007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
