@@ -14,18 +14,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0e75b6&center=true&vCenter=true&width=700&lines=Hi+I'm+Amith+K+G;CSE+Student;Web+Developer;Machine+Learning+Enthusiast;Building+Modern+Web+Experiences" />
 </p>
 
-<!-- 👨‍💻 Coding GIF (Right Side) -->
-<img align="right" alt="coding" width="300"
-src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-
 ---
 
 ## 🚀 About Me
-- 🎓 7th-sem **Computer Science Engineering** Student  
+
+<table>
+<tr>
+<td>
+
+- 🧑‍🎓 7th-sem **Computer Science Engineering** Student  
 - 💻 Passionate about **Web Development & Machine Learning**  
 - 🎮 I love **gaming, chess, cricket**, and **gym workouts**  
 - 🌱 Currently learning **MERN stack & ML models**  
-- ✨ Building real-world projects for practice & placements  
+- ✨ Building real-world projects for placements  
+
+</td>
+
+<td>
+  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="260" />
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -65,13 +75,6 @@ src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-
 ## 🕸️ Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ka-amith007&theme=react-dark&area=true"/>
-</p>
-
----
-
-## 🐍 Snake Eating My Contributions  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ka-amith007/ka-amith007/output/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
