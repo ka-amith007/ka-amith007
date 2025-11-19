@@ -1,7 +1,7 @@
 # 👋 Hey, I'm **Amith K G**
 
 <div align="right">
-  <img src="https://img.shields.io/badge/Visitors-300-blue?style=flat&logo=github" width="120px">
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=ka-amith007.ka-amith007" width="115px"/>
 </div>
 
 <!-- 🎬 GIF Banner -->
