@@ -10,9 +10,13 @@
 <img align="right" alt="coding" width="300"
 src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-<!-- 🔢 Profile Views -->
+<!-- 🔢 Visitors Counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ka-amith007&label=Profile%20views&color=0e75b6&style=flat" alt="ka-amith007"/>
+  <!-- Hits.sh Counter -->
+  <img src="https://hits.sh/ka-amith007.svg?style=for-the-badge&label=Visitors&color=0e75b6&logo=github" alt="Visitors"/>
+  
+  <!-- Komarev Counter -->
+  <img src="https://komarev.com/ghpvc/?username=ka-amith007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
@@ -72,5 +76,3 @@ src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ka-amith007&theme=react-dark&area=true&hide_border=true"/>
 </p>
-
----
