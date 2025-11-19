@@ -1,14 +1,18 @@
-<!-- 🔥 GIF Banner -->
+# 👋 Hey, I'm **Amith K G**
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ka-amith007.ka-amith007" width="115px"/>
+</div>
+
+<!-- 🎬 GIF Banner -->
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/174/1744.gif" alt="banner" width="100%">
+  <img src="https://giffiles.alphacoders.com/174/1744.gif" width="100%"/>
 </p>
 
-<!-- ✨ Animated Typing Banner -->
+<!-- 📝 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0e75b6&center=true&vCenter=true&width=700&lines=Hi+I'm+Amith+K+G;CSE+Student;AI+Enthusiast;MERN+Stack+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=0e75b6&center=true&vCenter=true&width=700&lines=Hi+I'm+Amith+K+G;CSE+Student;Web+Developer;Machine+Learning+Enthusiast;Building+Modern+Web+Experiences" />
 </p>
-
-<h3 align="center">CSE Student & AI-Driven MERN Developer Creating Modern Web Experiences</h3>
 
 <!-- 👨‍💻 Coding GIF (Right Side) -->
 <img align="right" alt="coding" width="300"
@@ -16,74 +20,58 @@ src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-
 
 ---
 
-## 👀 Visitors & Profile Stats
+## 🚀 About Me
+- 🎓 7th-sem **Computer Science Engineering** Student  
+- 💻 Passionate about **Web Development & Machine Learning**  
+- 🎮 I love **gaming, chess, cricket**, and **gym workouts**  
+- 🌱 Currently learning **MERN stack & ML models**  
+- ✨ Building real-world projects for practice & placements  
 
+---
+
+## 🛠️ Tech Stack
+
+| 💻 Languages | 🌐 Web Development | 🧠 Machine Learning | ⚡ Tools |
+|--------------|-------------------|---------------------|----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> <img src="https://skillicons.dev/icons?i=sklearn" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> |
+
+---
+
+## 🎯 Current Goals
+- 🚀 Build **AI-powered apps**  
+- 🌐 Master **Web development**  
+- 🧠 Improve at **ML models**  
+- 💼 Prepare for **placements**  
+
+---
+
+## 📫 Let's Connect
 <p align="left">
+  <a href="mailto:amithka053@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-  <!-- Custom Visitor Image -->
-  <img src="https://cdn-icons-png.flaticon.com/512/1827/1827504.png" width="50" style="margin-right: 15px;" alt="Visitors Icon"/>
+  <a href="https://github.com/ka-amith007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-  <!-- Hits.sh Counter -->
-  <img src="https://hits.sh/ka-amith007.svg?style=for-the-badge&label=Total+Visitors&color=0e75b6&logo=github" alt="Visitors"/>
-
-  <!-- Komarev Counter -->
-  <img src="https://komarev.com/ghpvc/?username=ka-amith007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <a href="https://linkedin.com/in/amith-kg">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 All of my projects are available at  
-👉 **https://amith-portfolio.netlify.app/**
-
-### 📫 Reach me at  
-**amithka053@gmail.com**
-
----
-
-## 🌐 Connect with me:
-<p align="left">
-
-<a href="https://github.com/ka-amith007" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
-       alt="GitHub" width="40" style="margin-right: 15px;"/>
-</a>
-
-<a href="https://linkedin.com/in/amith-kg" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="LinkedIn" width="40" style="margin-right: 15px;"/>
-</a>
-
-<a href="https://instagram.com/amith_018" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-       alt="Instagram" width="40" style="margin-right: 15px;"/>
-</a>
-
-</p>
-
----
-
-## 🛠️ Languages and Tools:
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" style="margin-right: 15px;"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" style="margin-right: 15px;"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" style="margin-right: 15px;"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" style="margin-right: 15px;"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin-right: 15px;"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin-right: 15px;"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" style="margin-right: 15px;"/>
-
-</p>
-
----
-
-## 🔥 Contribution Graph
+## 🕸️ Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ka-amith007&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ka-amith007&theme=react-dark&area=true"/>
 </p>
+
+---
+
+## 🐍 Snake Eating My Contributions  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ka-amith007/ka-amith007/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
