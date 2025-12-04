@@ -1,7 +1,7 @@
 # 👋 Hey, I'm **Amith K G**
 
 <div align="right">
-  <img src="https://img.shields.io/badge/Visitors-300-blue?style=flat&logo=github" width="115px"/>
+  <img src="https://komarev.com/ghpvc/?username=ka-amith007&label=Profile%20Views&color=0e75b6&style=flat"/>
 </div>
 
 <!-- 🎬 GIF Banner -->
@@ -57,8 +57,8 @@
 ---
 
 ## 📫 Let's Connect  
-<p align="left">
 
+<p align="left">
   <a href="mailto:amithka053@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -74,14 +74,24 @@
   <a href="https://amith-portfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
+</p>
 
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ka-amith007&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ka-amith007&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🕸️ Contribution Graph  
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ka-amith007&theme=react-dark&area=true"/>
 </p>
-
----
